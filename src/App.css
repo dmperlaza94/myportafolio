@@ -1,0 +1,18 @@
+.img-perfil{ width: 15vw;
+  height: auto;
+}
+.imagen-slider{
+  height: 30vh;
+  width: 10vw;
+}
+.varita{
+  width: 5vw;
+}
+.icon-redsocial{
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.cont-proyec:hover {
+  transform: scale(1.3);
+}
